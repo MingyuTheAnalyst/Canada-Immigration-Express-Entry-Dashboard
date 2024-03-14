@@ -49,7 +49,7 @@ This dashboard provides more trends, understanding and insight into immigration 
 
 - The on-right side chart explains how many candidates remain above 480.
 
-<img width="1000" alt="Screenshot 2024-03-14 at 2 28 53 PM" src="https://github.com/MingyuTheAnalyst/Canada-Immigration-Express-Entry-Dashboard/assets/88122148/3762c79a-2d3a-4cbd-800a-a5e223c62915">
+ <img width="1000" alt="Screenshot 2024-03-14 at 2 28 53 PM" src="https://github.com/MingyuTheAnalyst/Canada-Immigration-Express-Entry-Dashboard/assets/88122148/3762c79a-2d3a-4cbd-800a-a5e223c62915">
 
 ### Key Achievements
 
